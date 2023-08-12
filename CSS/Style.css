@@ -1,0 +1,33 @@
+
+
+#leftDiv{
+    width: 50%;
+    height: 800px;
+    background-color: aqua;
+    padding: 5px;
+}
+
+#rightDiv{
+    width: 50%;
+    height: 400px;
+    display: block;
+    background-color: red;
+}
+
+#logoImage{
+    color: black;
+    font-family: sans-serif;
+    text-align: right;
+}
+
+#logoText{
+    display: inline;
+    font-size: 22;
+    color:  black;
+}
+
+h2{
+    color: rgb(40, 40, 255);
+    font-family: sans-serif;
+    font-size: 16px;
+}
